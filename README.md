@@ -15,12 +15,9 @@ My work centers on SIEM platforms, detection engineering, and incident response.
 
 | Skill                                         | Experience         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Professional + Lab Projects |
-| Threat Detection & Custom Rule Development    | Professional Experience |
-| Incident Response and Investigation           | Professional Experience |
-| Security Automation and Playbook Development  | Professional Experience |
-| Endpoint Security and EDR                     | Professional Experience |
-| Attack Simulation and Detection Testing       | <a href="#home-security-lab">Home Security Lab</a> |
+| SIEM Implementation & Attack Simulation           | <a href="#home-security-lab">Home Security Lab</a> |
+
+
 
 ## Tools
 
@@ -69,7 +66,7 @@ My work centers on SIEM platforms, detection engineering, and incident response.
 
 ## Projects
 
-### Home Security Lab
+### Home Security Lab — SIEM Implementation & Attack Simulation
 **Objective:** Build a hands-on environment to practice detection engineering and attack simulation
 
 
