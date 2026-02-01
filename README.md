@@ -1,4 +1,80 @@
-## Hi there 👋
+## Hello, I'm Himmat
+
+<a href="https://www.linkedin.com/in/himmat-kumar-dogra-canada/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+## About Me
+
+IT Systems Administrator with 3+ years focused on security operations and threat detection. I build detection rules, hunt for threats, and respond to incidents in production environments. Currently expanding my skills through hands-on lab work and pursuing advanced certifications.
+
+## Professional Focus
+
+My work centers on SIEM platforms, detection engineering, and incident response. I've maintained a zero-breach track record across multiple client environments while building custom detection rules, conducting threat hunts mapped to MITRE ATT&CK, and responding to security incidents. Now deepening my technical skills through continuous learning and lab-based projects.
+
+## Skills
+
+| Skill                                         | Experience         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | Professional + Lab Projects |
+| Threat Detection & Custom Rule Development    | Professional Experience |
+| Incident Response and Investigation           | Professional Experience |
+| Security Automation and Playbook Development  | Professional Experience |
+| Endpoint Security and EDR                     | Professional Experience |
+| Attack Simulation and Detection Testing       | <a href="#home-security-lab">Home Security Lab</a> |
+
+## Tools
+
+### SIEM Platforms
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Cloud & Identity
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Network Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Attack Simulation
+<div>
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+</div>
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+
+**In Progress:**
+- CompTIA CySA+ (expected Q1 2026)
+- GIAC Certified Incident Handler (expected Q3 2026)
+
+
+
+---
+
+## Projects
+
+### Home Security Lab
+**Objective:** Build a hands-on environment to practice detection engineering and attack simulation
+
+
+For detailed work history, see my [LinkedIn profile](https://linkedin.com/in/yourprofile) or [resume](#).
+
 
 <!--
 **hmt93/hmt93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
