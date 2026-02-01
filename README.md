@@ -73,7 +73,7 @@ My work centers on SIEM platforms, detection engineering, and incident response.
 **Objective:** Build a hands-on environment to practice detection engineering and attack simulation
 
 
-For detailed work history, see my [LinkedIn profile](https://linkedin.com/in/yourprofile) or [resume](#).
+For detailed work history, see my [LinkedIn profile](https://www.linkedin.com/in/himmat-kumar-dogra-canada/)
 
 
 <!--
