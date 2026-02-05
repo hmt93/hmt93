@@ -15,7 +15,7 @@ My work centers on SIEM platforms, detection engineering, and incident response.
 
 | Project                                         | Focus         | Tools and Framework         |
 |-----------------------------------------------|----------------------------|----------------------------|
-| SIEM Implementation & Attack Simulation          | Splunk-based virtual lab with Kali, Windows 10, and Ubuntu to simulate attacks, forward logs, and build SPL detections. Focused on identifying authentication anomalies, process execution, and network scanning to practice SOC-style alerting and investigation.| VirtualBox, Splunk Enterprise, Splunk Universal Forwarder, Windows 10, Kali Linux, Ubuntu Server, Nmap |
+| <a href="https://github.com/hmt93/splunk-detection-lab"> Splunk Detection Lab  </a> | Splunk-based virtual lab with Kali, Windows 10, and Ubuntu to simulate attacks, forward logs, and build SPL detections. Focused on identifying authentication anomalies, process execution, and network scanning to practice SOC-style alerting and investigation.| VirtualBox, Splunk Enterprise, Splunk Universal Forwarder, Windows 10, Kali Linux, Ubuntu Server, Nmap |
 
 
 
