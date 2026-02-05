@@ -11,11 +11,11 @@ IT Systems Administrator with 3+ years focused on security operations and threat
 
 My work centers on SIEM platforms, detection engineering, and incident response. I've maintained a zero-breach track record across multiple client environments while building custom detection rules, conducting threat hunts mapped to MITRE ATT&CK, and responding to security incidents. Now deepening my technical skills through continuous learning and lab-based projects.
 
-## Skills
+## Hands‑On Projects
 
-| Skill                                         | Experience         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation & Attack Simulation           | <a href="#home-security-lab">Home Security Lab</a> |
+| Project                                         | Focus         | Tools and Framework         |
+|-----------------------------------------------|----------------------------|----------------------------|
+| SIEM Implementation & Attack Simulation          | Splunk-based virtual lab with Kali, Windows 10, and Ubuntu to simulate attacks, forward logs, and build SPL detections. Focused on identifying authentication anomalies, process execution, and network scanning to practice SOC-style alerting and investigation.| VirtualBox, Splunk Enterprise, Splunk Universal Forwarder, Windows 10, Kali Linux, Ubuntu Server, Nmap |
 
 
 
